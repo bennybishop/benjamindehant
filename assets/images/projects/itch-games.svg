@@ -1,0 +1,27 @@
+<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Indie games and prototypes illustration">
+  <rect width="320" height="180" fill="#DFF5EE"/>
+  <g stroke="#1B2432" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- handheld console body -->
+    <rect x="96" y="34" width="128" height="112" rx="22" fill="#1E9BE9"/>
+    <!-- screen -->
+    <rect x="116" y="48" width="88" height="52" rx="8" fill="#FFF1C2"/>
+  </g>
+  <!-- pixel heart on screen -->
+  <g stroke="#1B2432" stroke-width="3" stroke-linejoin="round">
+    <path d="M150 66 l5 5 5 -5 5 5 -10 10 -10 -10 z" fill="#FF7A59"/>
+    <path d="M178 68 h10 M183 63 v10" stroke="#4FC2A6" stroke-width="3"/>
+  </g>
+  <!-- controls: d-pad (left) -->
+  <g stroke="#1B2432" stroke-width="3.5" stroke-linejoin="round">
+    <rect x="126" y="112" width="11" height="26" rx="2" fill="#12202F"/>
+    <rect x="118" y="120" width="27" height="11" rx="2" fill="#12202F"/>
+    <!-- buttons (right) -->
+    <circle cx="190" cy="116" r="8" fill="#FFCB2E"/>
+    <circle cx="206" cy="128" r="8" fill="#FF7A59"/>
+  </g>
+  <!-- sparkle -->
+  <g fill="#FFCB2E" stroke="#1B2432" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M64 52 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z"/>
+  </g>
+  <circle cx="256" cy="60" r="6" fill="#8A6FE8" stroke="#1B2432" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,39 @@
+/* ============================================================
+   tokens.css  ·  COLORS + FONTS ONLY. The single source of truth.
+   Edit THIS file to re-skin the whole site. Nothing else hard-codes hex.
+   Brand: playful, hand-drawn, blue + yellow (Benjamin Dehant).
+   ============================================================ */
+:root{
+  /* ---- Core palette ---- */
+  --bg:        #FCFAF2;   /* warm paper background */
+  --ink:       #1B2432;   /* main text (soft navy, not pure black) */
+  --muted:     #59647A;   /* secondary text */
+  --surface:   #FFFFFF;   /* cards */
+  --surface-2: #F3EFE0;   /* alt / cream sections */
+
+  /* ---- Brand accents ---- */
+  --blue:      #1E9BE9;   /* primary accent: buttons, links, highlights */
+  --blue-deep: #0B5FA5;   /* darker blue for headings / hovers */
+  --blue-soft: #DCEEFB;   /* pale blue wash for section backgrounds */
+  --yellow:    #FFCB2E;   /* secondary accent: highlighter, stickers, stars */
+  --yellow-soft:#FFF1C2;  /* pale yellow wash */
+
+  /* ---- Playful tertiary tints (used sparingly in art / tags) ---- */
+  --coral:     #FF7A59;
+  --mint:      #4FC2A6;
+  --grape:     #8A6FE8;
+
+  /* ---- Footer credit colors (read by the EKY logo) ---- */
+  --footer-bg: #12202F;   /* dark footer background */
+  --footer-fg: #FCFAF2;   /* footer text */
+
+  /* ---- Extra ---- */
+  --white: #FFFFFF;   /* pure white for text/borders on colored surfaces */
+
+  /* ---- Fonts ---- */
+  --font-display: 'Fredoka', system-ui, -apple-system, sans-serif;
+  --font-body:    'Nunito',  system-ui, -apple-system, sans-serif;
+
+  /* ---- Layout ---- */
+  --max: 1140px;
+}

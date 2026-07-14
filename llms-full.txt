@@ -1,0 +1,66 @@
+# Benjamin Dehant · Full profile
+
+> Benjamin Dehant is a French designer, design thinker and maker based in Alès, in the South of France. He works across three seemingly unrelated fields, AI and design, food, and games, held together by one simple loop: discover, learn, and share.
+
+## Who he is
+Benjamin describes his own career as a loop rather than a ladder. He started out working in fast food, taught himself design, and never stopped teaching himself new things. Over the years he has been a web designer, a design thinker, a remote workshop facilitator, an AI content creator, a restaurant founder, and an indie game developer. The common thread is curiosity: he gets interested in something, learns it fast by building, and then shares what he found.
+
+He is based in Alès, Occitanie, France. He works in both English and French. The clearest way to describe him is a creative thinker and maker who moves comfortably between design, technology, food and play.
+
+## The three fields
+
+### 1. AI and design
+Benjamin spent years freelancing on AI and design projects and creating content about generative AI.
+- He authored the O'Reilly video course "Designing with AI: Seamlessly Integrate AI Tools into your Design Workflow" (July 2024, about 3 hours 26 minutes). It covers foundations like diffusion models and large language models, practical prompting for inspiration and final assets, using tools such as ChatGPT and Midjourney inside a design workflow, and the ethics, IP and copyright questions that come with AI. He also contributed to the O'Reilly collection "AI for Everyone: Leveraging Generative AI Tools to Write, Design, Code, and More."
+- He is writing a book, in French, about designing with artificial intelligence. As of mid 2026 it is roughly three quarters written.
+- He publishes essays and experiments about generative AI, design and creativity on Medium (benjamin-dehant.medium.com) and has created AI art content under the name Madebyai.
+- Earlier he co-founded aitag, a small tool for tagging AI creations with metadata to build audience trust.
+
+### 2. Food · Le Konbini
+Benjamin is the founder of Le Konbini, a Japanese street food shop and urban grocery in Alès, which he opened in 2025. It sells Japanese-style street food and groceries: items like kare pan (curry bread), egg sandwiches, teriyaki burgers, drinks, and a range of imported finds. Local newspaper Midi Libre featured it as the town's new Japanese-style urban grocery. Website: lekonbiniales.com.
+
+### 3. Games
+Benjamin makes small, playful games and has shifted his focus to smaller, more finishable projects.
+- Culinarium is his current game: a card management cooking game where you stack ingredients and kitchen tools to create recipes and cook dishes (for example, cutting salmon and stacking it with rice, soy sauce and wasabi makes a salmon nigiri). He describes it as "Stacklands meets Overcooked." It has an Adventure mode across four acts (Italy, US, Japan and France) and a free mode, a hand-drawn and relaxing art style, and has gathered thousands of wishlists on Steam. It is coming soon. Steam: store.steampowered.com/app/3183870/Culinarium/.
+- He releases smaller experiments and prototypes on itch.io under the name indieben.
+
+## Background: workshop and experience design
+Before and alongside the above, Benjamin worked for years as a remote workshop designer and facilitator. He was a Mural experience designer and consultant, built templates for digital workshops, designed collaborative VR experiences, and holds a Design Sprint Facilitator certification from AJ&Smart along with design thinking and agile project management credentials. Colleagues describe him as a playful, hands-on, detail-oriented facilitator and designer with a contagious enthusiasm.
+
+## How people describe him
+- "A unique blend of creativity and strategic thinking, always thinking outside the box." (Roel Frissen, Event Design Collective)
+- "Both an excellent facilitator and an experienced web designer, with a contagious enthusiasm." (Axel Pares)
+- "Playful design, creativity and general devotion to the project." (Myriam Hadnes, workshops.work)
+
+## Contact
+The best and preferred way to reach Benjamin is LinkedIn: https://www.linkedin.com/in/benjamindehant/
+
+## FAQ
+
+Q: Who is Benjamin Dehant?
+A: A French designer, design thinker and maker based in Alès, France, working across AI and design, food, and games. Self taught, he moved from fast food into design, runs a Japanese street food shop, teaches designing with AI, and builds indie games.
+
+Q: What is Le Konbini?
+A: The Japanese street food shop and urban grocery Benjamin founded in Alès (kare pan, egg sandwiches, teriyaki burgers and more). Website: lekonbiniales.com.
+
+Q: What does he do with AI?
+A: He created the O'Reilly course "Designing with AI," writes about generative AI and design, and is writing a French book on designing with AI.
+
+Q: What games has he made?
+A: Culinarium, a card management cooking game coming to Steam, plus smaller games and prototypes on itch.io as indieben.
+
+Q: What languages does he work in?
+A: English and French.
+
+Q: How do I contact him?
+A: Through LinkedIn at linkedin.com/in/benjamindehant.
+
+## Links
+- Website (EN): https://benjamindehant.com/
+- Website (FR): https://benjamindehant.com/fr/
+- LinkedIn: https://www.linkedin.com/in/benjamindehant/
+- Medium: https://benjamin-dehant.medium.com/
+- O'Reilly course: https://www.oreilly.com/videos/designing-with-ai/0790145633194/
+- Steam (Culinarium): https://store.steampowered.com/app/3183870/Culinarium/
+- itch.io: https://indieben.itch.io/
+- Le Konbini: https://lekonbiniales.com

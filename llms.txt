@@ -1,0 +1,33 @@
+# Benjamin Dehant
+
+> Benjamin Dehant is a French designer, design thinker and maker based in Alès, France. He works across three fields, AI and design, food, and games, under one idea: discover, learn, and share.
+
+## About
+Benjamin Dehant is a self taught designer who started in fast food and moved into design and design thinking. For years he freelanced on AI and design projects and facilitated remote innovation workshops for teams around the world. Today he runs Le Konbini, a Japanese street food shop and grocery in Alès (South of France), writes and teaches about designing with AI, and builds small indie games. He is French, works in English and French, and prefers to be contacted on LinkedIn.
+
+## Work
+- Le Konbini (founder, 2025 to present): Japanese street food shop and urban grocery in Alès, France · https://lekonbiniales.com
+- Designing with AI (O'Reilly video course, 2024): a 3.5 hour course on integrating AI tools into a design workflow · https://www.oreilly.com/videos/designing-with-ai/0790145633194/
+- Culinarium (indie game, coming soon on Steam): a card management cooking game, "Stacklands meets Overcooked", thousands of Steam wishlists · https://store.steampowered.com/app/3183870/Culinarium/
+- Indie games and prototypes on itch.io, under the name indieben · https://indieben.itch.io/
+- Workshop and experience design: years of remote innovation facilitation, including work with MURAL and a Design Sprint certification from AJ&Smart
+
+## Books / Publications
+- Designing with AI (book, in progress): a book in French about designing with artificial intelligence, roughly three quarters written
+- Writing on generative AI and design, on Medium · https://benjamin-dehant.medium.com/
+
+## Media
+- O'Reilly (course author)
+- Midi Libre (feature on Le Konbini)
+- New Process Lab (podcast guest on AI and human-centric work)
+- Facilitator.com (facilitation career feature)
+
+## Links
+- [Website (EN)](https://benjamindehant.com/)
+- [Website (FR)](https://benjamindehant.com/fr/)
+- [LinkedIn](https://www.linkedin.com/in/benjamindehant/)
+- [Medium](https://benjamin-dehant.medium.com/)
+- [Steam - Culinarium](https://store.steampowered.com/app/3183870/Culinarium/)
+- [itch.io](https://indieben.itch.io/)
+- [Le Konbini](https://lekonbiniales.com)
+- [Full content](https://benjamindehant.com/llms-full.txt)

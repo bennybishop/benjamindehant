@@ -1,0 +1,22 @@
+<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Workshop and experience design illustration">
+  <rect width="320" height="180" fill="#DCEEFB"/>
+  <g stroke="#1B2432" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- board -->
+    <rect x="52" y="34" width="216" height="104" rx="10" fill="#FFFFFF"/>
+    <line x1="160" y1="138" x2="160" y2="156"/>
+    <line x1="132" y1="156" x2="188" y2="156"/>
+  </g>
+  <!-- sticky notes (slightly rotated) -->
+  <g stroke="#1B2432" stroke-width="3.5" stroke-linejoin="round">
+    <g transform="rotate(-6 92 66)"><rect x="70" y="50" width="44" height="40" rx="4" fill="#FFCB2E"/><line x1="78" y1="62" x2="106" y2="62"/><line x1="78" y1="72" x2="100" y2="72"/></g>
+    <g transform="rotate(4 156 70)"><rect x="134" y="52" width="44" height="40" rx="4" fill="#1E9BE9"/><line x1="142" y1="64" x2="170" y2="64" stroke="#FFFFFF"/><line x1="142" y1="74" x2="164" y2="74" stroke="#FFFFFF"/></g>
+    <g transform="rotate(-3 220 66)"><rect x="198" y="50" width="44" height="40" rx="4" fill="#FF7A59"/><line x1="206" y1="62" x2="234" y2="62"/><line x1="206" y1="72" x2="228" y2="72"/></g>
+    <g transform="rotate(5 124 112)"><rect x="102" y="98" width="44" height="30" rx="4" fill="#4FC2A6"/></g>
+    <g transform="rotate(-4 190 112)"><rect x="168" y="98" width="44" height="30" rx="4" fill="#FFF1C2"/></g>
+  </g>
+  <!-- marker -->
+  <g stroke="#1B2432" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M236 118 l26 -8 6 20 -26 8 z" fill="#8A6FE8"/>
+    <path d="M262 110 l12 -4 6 20 -12 4 z" fill="#FFFFFF"/>
+  </g>
+</svg>

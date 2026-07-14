@@ -1,0 +1,22 @@
+<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Writing and AI art illustration">
+  <rect width="320" height="180" fill="#EFE7FB"/>
+  <g stroke="#1B2432" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- artist palette -->
+    <path d="M96 66 c-30 0 -46 22 -46 44 c0 20 16 30 32 30 c10 0 12 -8 20 -8 c8 0 10 10 22 10 c26 0 42 -24 42 -48 c0 -28 -24 -50 -52 -50 c-6 0 -12 1 -18 3 z" fill="#FFFFFF"/>
+    <circle cx="74" cy="96" r="7" fill="#1E9BE9"/>
+    <circle cx="96" cy="82" r="7" fill="#FFCB2E"/>
+    <circle cx="120" cy="86" r="7" fill="#FF7A59"/>
+    <circle cx="126" cy="112" r="7" fill="#4FC2A6"/>
+    <!-- pencil / pen -->
+    <path d="M176 132 l58 -58 16 16 -58 58 -22 6 z" fill="#FFCB2E"/>
+    <path d="M234 74 l10 -10 16 16 -10 10 z" fill="#1E9BE9"/>
+    <line x1="176" y1="132" x2="192" y2="148"/>
+  </g>
+  <!-- generative sparkles -->
+  <g fill="#8A6FE8" stroke="#1B2432" stroke-width="3" stroke-linejoin="round">
+    <path d="M212 40 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5 z"/>
+  </g>
+  <g fill="#FFCB2E" stroke="#1B2432" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M264 118 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4 z"/>
+  </g>
+</svg>

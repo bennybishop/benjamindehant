@@ -1,0 +1,35 @@
+<svg viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Le Konbini Japanese street food illustration">
+  <rect width="320" height="180" fill="#FFF1C2"/>
+  <!-- paper lantern -->
+  <g stroke="#1B2432" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <line x1="66" y1="18" x2="66" y2="30"/>
+    <ellipse cx="66" cy="54" rx="26" ry="30" fill="#FF7A59"/>
+    <line x1="48" y1="42" x2="84" y2="42"/>
+    <line x1="45" y1="54" x2="87" y2="54"/>
+    <line x1="48" y1="66" x2="84" y2="66"/>
+    <rect x="58" y="82" width="16" height="8" rx="2" fill="#1B2432"/>
+  </g>
+  <!-- bento box -->
+  <g stroke="#1B2432" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="120" y="84" width="140" height="68" rx="12" fill="#FFFFFF"/>
+    <line x1="190" y1="84" x2="190" y2="152"/>
+    <!-- left: onigiri rice ball with nori band -->
+    <path d="M142 140 l18 -34 18 34 z" fill="#FFFFFF"/>
+    <rect x="150" y="130" width="20" height="12" rx="1" fill="#1B2432"/>
+    <!-- right: salmon nigiri, rice base plus salmon slice -->
+    <rect x="202" y="122" width="46" height="16" rx="8" fill="#FFFFFF"/>
+    <path d="M200 122 q23 -16 48 0 q-4 4 -24 4 q-20 0 -24 -4 z" fill="#FF7A59"/>
+    <path d="M210 120 q6 -3 12 0" stroke="#FFFFFF" stroke-width="2.5"/>
+    <path d="M226 120 q6 -3 12 0" stroke="#FFFFFF" stroke-width="2.5"/>
+  </g>
+  <!-- chopsticks -->
+  <g stroke-width="4" stroke-linecap="round">
+    <line x1="250" y1="36" x2="212" y2="86" stroke="#8A6FE8"/>
+    <line x1="262" y1="42" x2="224" y2="92" stroke="#1E9BE9"/>
+  </g>
+  <!-- steam -->
+  <g stroke="#1B2432" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.65">
+    <path d="M150 100 q-6 -10 0 -20"/>
+    <path d="M168 100 q6 -10 0 -20"/>
+  </g>
+</svg>
